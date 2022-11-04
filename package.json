@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "bigint-buffer": "^1.1.5",
+    "circomlib": "^2.0.5",
+    "circomlibjs": "^0.1.7",
+    "crypto": "^1.0.1",
+    "fixed-merkle-tree": "git+https://github.com/aswedchain/fixed-merkle-tree.git"
+  }
+}
